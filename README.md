@@ -2,6 +2,7 @@
 ## This is an module to make gtfs to UniJSON format
 ## UniJSON is a file format made to contain transit data with time and removing the uless info (Ex: route color) but you can still use them if wanted via option
 ## Thank to [https://github.com/brendannee](Brendan Nee) For the base of this project !
+
 <p align="center">
   ➡️
   <a href="#installation">Installation</a> |

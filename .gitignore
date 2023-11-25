@@ -3,3 +3,4 @@ gtfs-downloads
 geojson
 config*
 !config-sample*
+.vscode
