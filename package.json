@@ -12,9 +12,9 @@
   "bugs": {
     "url": "https://github.com/blinktaginc/gtfs-to-geojson/issues"
   },
-  "repository": "git://github.com/blinktaginc/gtfs-to-geojson",
+  "repository": "git://github.com/Altepp/gtfs-to-unijson",
   "license": "MIT",
-  "author": "Brendan Nee <brendan@blinktag.com>",
+  "author": " Altep Orginal creator: Brendan Nee <brendan@blinktag.com>",
   "contributors": [
     "Kegan Maher"
   ],
